@@ -33,19 +33,21 @@ Here is an overview of the files in this repository:
 If you want to run this project on your own computer, follow these steps:
 
 **1. Clone the Repository**
-```bash
+bash
 git clone git@github.com:mehedi-hasan00/Amazon-Sentiment-Analysis-Project.git
 cd Amazon-Sentiment-Analysis-Project
-
 **2. Install Dependencies**
 pip install -r requirements.txt
-
 **3. Run the App**
 streamlit run streamlit_frontend.py
 
-**📊 Model Details**
-* Algorithm: Logistic Regression
-* Vectorization: TF-IDF / CountVectorizer
-* Preprocessing: Stopwords removal, Lemmatization, and Punctuation removal.
+## 📊 Model Details
+- **Algorithm:** Logistic Regression
+- **Vectorization:** TF-IDF / CountVectorizer
+- **Preprocessing:** Stopwords removal, Lemmatization, and Punctuation removal.
 
-**👨‍💻 Developed by Mehedi Hasan**
+---
+
+### 👨‍💻 Developed by **Mehedi Hasan**
+```
+
